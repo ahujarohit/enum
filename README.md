@@ -20,7 +20,5 @@ Moreover, we'll explore advanced concepts, such as integrating enums with classe
 
 Whether you're a student gearing up for interviews, a professional enhancing your Java skills, or simply curious about enums, join us on this journey to master enums in Java. Let's dive in and unlock the full potential of this powerful language feature together.
 
----
 
-Feel free to adjust the tone and specifics to match your style and the focus of your videos. Good luck with your series!
 
