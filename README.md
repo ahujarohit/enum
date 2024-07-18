@@ -1,6 +1,6 @@
 Mastering enum in Java Youtube Series
 
-https://www.youtube.com/playlist?list=PLzrb6iZd6X9LlrrMQxHnON9U4bpttBAfr
+https://www.youtube.com/playlist?list=PLzrb6iZd6X9LlrrMQxHnON9U4bpttBAfr 👈
 
 Examples and Assignments Download: 
 
